@@ -1,3 +1,6 @@
-h1 {
-  color: red;
+body {background:#660066;
+text: style="shadow";
+color: #ffffff;
 }
+
+h1 {text-align: center;}
