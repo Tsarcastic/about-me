@@ -3,3 +3,18 @@ text: style="shadow";
 color: #ffffff;
 text-align: center;
 }
+
+h4 {
+  text-align: center;
+}
+
+.quiz {
+  text-align: left;
+  margin-top: 50px;
+  margin-right: 50px;
+  font-size: 1.75em;
+}
+
+a:link, a:visited {
+  color: #ff99ff
+}
